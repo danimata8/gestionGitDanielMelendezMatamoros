@@ -3,5 +3,6 @@ public class App {
         System.out.println("Hello, World!");
         System.out.println("Mi nombre es Daniel");
         System.out.println("Mi apellido es Melendez");
+        System.out.println("Mi edad es 25 años");
     }
 }
